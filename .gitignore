@@ -1,0 +1,16 @@
+/app/cache/*
+!/app/cache/.gitkeep
+/app/logs/*
+!/app/logs/.gitkeep
+/app/sessions/*
+!/app/sessions/.gitkeep
+/app/config/parameters.yml
+/web/bundles/*
+!/web/bundles/.gitkeep
+/web/.htaccess
+.DS_Store
+/vendor
+/bin
+.sass-cache
+.grunt
+node_modules
